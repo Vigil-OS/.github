@@ -5,7 +5,7 @@
 > Идеален для пентеста, цифровой гигиены и анонимной работы.
 
 [![Release](https://img.shields.io/github/v/release/Vigil-OS/main?include_prereleases&label=Version&color=blue)](https://github.com/Vigil-OS/main/releases)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/Trytonottry/SecureOS/build.yml?branch=main&label=Build)](https://github.com/Vigil-OS/main/actions)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/Vigil-OS/main/build.yml?branch=main&label=Build)](https://github.com/Vigil-OS/main/actions)
 [![License](https://img.shields.io/github/license/Vigil-OS/main)](LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/Vigil-OS/main?style=social)](https://github.com/Vigil-OS/main)
 [![Website](https://img.shields.io/badge/🌐-Website-green)](https://vigil-os.github.io/)
